@@ -1,0 +1,12 @@
+build/
+transcript
+.Xil/
+work/
+obj_dir/
+xsim.dir/
+*.wlf
+*.wdb
+*.jou
+*.pb
+vivado*.log
+webtalk*
